@@ -1,0 +1,3 @@
+[submodule "http2"]
+	path = http2
+	url = git@gist.github.com:79e7e0de4b2097e43356.git
