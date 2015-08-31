@@ -4,7 +4,8 @@
 
 brew install nghttp2
 
-(brew install openssl --force)
+※ Before you install the nghttp2, you may need the following steps
+  brew install openssl --force
 
 rbenv install 2.3.0-dev
 
